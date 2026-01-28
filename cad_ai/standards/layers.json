@@ -1,0 +1,30 @@
+{
+  "OUTLINE": {
+    "color": 7,
+    "lineweight": 0.5
+  },
+  "HIDDEN": {
+    "color": 8,
+    "lineweight": 0.25
+  },
+  "CENTER": {
+    "color": 4,
+    "lineweight": 0.25
+  },
+  "DIM": {
+    "color": 3,
+    "lineweight": 0.18
+  },
+  "TEXT": {
+    "color": 2,
+    "lineweight": 0.18
+  },
+  "HATCH": {
+    "color": 9,
+    "lineweight": 0.1
+  },
+  "TITLE": {
+    "color": 6,
+    "lineweight": 0.35
+  }
+}

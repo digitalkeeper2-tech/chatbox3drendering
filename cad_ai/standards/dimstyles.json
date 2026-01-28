@@ -1,0 +1,12 @@
+{
+  "ISO": {
+    "text_height": 2.5,
+    "arrow_size": 2.5,
+    "units": "mm"
+  },
+  "ANSI": {
+    "text_height": 0.1,
+    "arrow_size": 0.1,
+    "units": "in"
+  }
+}
