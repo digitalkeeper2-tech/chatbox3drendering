@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cad-ai"
+version = "0.1.0"
+description = "Mixed Drawing to DXF + PDF Preview pipeline skeleton"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
